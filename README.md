@@ -15,7 +15,7 @@ A text editor that runs in browser and can be used offline. It allows users to c
 - [Tests](##tests)
 - [License](##license)
 - [Questions](##questions)
-- [Link to the video](##link-to-the-video)
+- [Deployed Application](##DeployedApplication)
 
 ## Installation
 
@@ -47,3 +47,6 @@ If you have any questions about this project, please contact me via:
 
 - Email: yuhe.liang@outlook.com
 - GitHub: https://github.com/Wallacethewonderer
+
+## Deployed Application
+https://webtext-editor-73683aa85793.herokuapp.com/

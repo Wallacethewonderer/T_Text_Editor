@@ -9,13 +9,13 @@ A text editor that runs in browser and can be used offline. It allows users to c
 
 ## Table of Contents
 
-- [Installation](##installation)
-- [Usage](##usage)
-- [Contributing](##contributing)
-- [Tests](##tests)
-- [License](##license)
-- [Questions](##questions)
-- [Deployed Application](##DeployedApplication)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
+- [Deployed Application](#deployed-application)
 
 ## Installation
 
